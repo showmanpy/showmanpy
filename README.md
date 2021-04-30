@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome to my profile 😎🤙
 
-<!--
-**showmanpy/showmanpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is giovani zedd, I'm from Brazil 🇧🇷 I'm a Software Engineer and I've been working as a developer since 2017
 
-Here are some ideas to get you started:
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ''Este é o mundo em que vivemos. Pessoas se dando bem em cima dos erros alheios para manipularem e usarem uns aos outros."
+
+-      📍 I'm from Brazil but I'm currently in Massachusetts
+-      🤑 Owner Of Several Virtual Stores
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/showman.py/)
+
+![](https://wallpaperaccess.com/full/869923.gif)
