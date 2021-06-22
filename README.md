@@ -1,4 +1,4 @@
-# Welcome to my profile 😎🤙
+# Welcome to my profile
 
 My name is giovani zedd, I'm from Brazil 🇧🇷 I'm a Software Engineer and I've been working as a developer since 2017
 
